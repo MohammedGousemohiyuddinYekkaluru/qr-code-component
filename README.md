@@ -38,3 +38,17 @@ While working on this challenge, I practiced:
    align-items: center;
    height: 100vh;
 }
+
+
+I want to improve further by:
+
+Practicing more Frontend Mentor challenges
+
+Refining my responsive design skills
+
+Getting more comfortable with CSS variables and utility classes.
+
+
+Challenge by Frontend Mentor
+.
+Coded by Mohammed Gouse.
