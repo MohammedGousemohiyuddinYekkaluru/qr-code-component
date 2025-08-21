@@ -12,7 +12,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 - Solution URL: [GitHub Repo](https://github.com/MohammedGousemohiyuddinYekkaluru/qr-code-component.git) 
-- Live Site URL: [Live Demo](https://yourusername.github.io/qr-code-component/) <!-- Replace with your live site link -->
+- Live Site URL: [Live Demo]( https://mohammedgousemohiyuddinyekkaluru.github.io/qr-code-component/) 
 
 ---
 
@@ -39,16 +39,20 @@ While working on this challenge, I practiced:
    height: 100vh;
 }
 
+## 📈 Continued Development
 
-I want to improve further by:
+### I want to improve further by:
 
-Practicing more Frontend Mentor challenges
+- Practicing more Frontend Mentor challenges
 
-Refining my responsive design skills
+- Refining my responsive design skills
 
-Getting more comfortable with CSS variables and utility classes.
+- Getting more comfortable with CSS variables and utility classes.
 
+classes
 
-Challenge by Frontend Mentor
+## 🙌 Acknowledgments
+
+- Challenge by Frontend Mentor
 .
-Coded by Mohammed Gouse.
+- Coded by Mohammed Gouse.
